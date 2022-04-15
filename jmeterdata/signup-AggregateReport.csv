@@ -1,0 +1,167 @@
+﻿
+1649963332446,556,Sign up-x1y12,200,OK,SIGNUP 1-1,text,true,,326,491,6,13,https://api.demoblaze.com/signup,555,0,182
+1649963333103,507,Sign up-x1y14,200,OK,SIGNUP 1-2,text,true,,326,491,6,13,https://api.demoblaze.com/signup,507,0,156
+1649963333771,671,Sign up-x1y16,200,OK,SIGNUP 1-3,text,true,,326,491,6,14,https://api.demoblaze.com/signup,670,0,159
+1649963334435,669,Sign up-x1y18,200,OK,SIGNUP 1-4,text,true,,326,491,6,14,https://api.demoblaze.com/signup,669,0,151
+1649963335100,509,Sign up-x1y20,200,OK,SIGNUP 1-5,text,true,,326,491,6,13,https://api.demoblaze.com/signup,509,0,142
+1649963335769,498,Sign up-x1y22,200,OK,SIGNUP 1-6,text,true,,326,491,6,12,https://api.demoblaze.com/signup,498,0,147
+1649963336436,672,Sign up-x1y24,200,OK,SIGNUP 1-7,text,true,,326,491,6,14,https://api.demoblaze.com/signup,672,0,166
+1649963337101,511,Sign up-x1y26,200,OK,SIGNUP 1-8,text,true,,326,491,6,14,https://api.demoblaze.com/signup,510,0,148
+1649963337768,672,Sign up-x1y13,200,OK,SIGNUP 1-9,text,true,,326,491,6,14,https://api.demoblaze.com/signup,672,0,165
+1649963338435,670,Sign up-x1y15,200,OK,SIGNUP 1-10,text,true,,326,491,6,14,https://api.demoblaze.com/signup,670,0,165
+1649963339098,563,Sign up-x1y17,200,OK,SIGNUP 1-11,text,true,,326,491,5,10,https://api.demoblaze.com/signup,563,0,155
+1649963339764,501,Sign up-x1y19,200,OK,SIGNUP 1-12,text,true,,326,491,4,8,https://api.demoblaze.com/signup,501,0,152
+1649963340434,679,Sign up-x1y21,200,OK,SIGNUP 1-13,text,true,,326,491,3,6,https://api.demoblaze.com/signup,679,0,143
+1649963341099,504,Sign up-x1y23,200,OK,SIGNUP 1-14,text,true,,326,491,2,4,https://api.demoblaze.com/signup,504,0,162
+1649963341765,957,Sign up-x1y25,200,OK,SIGNUP 1-15,text,true,,326,491,1,2,https://api.demoblaze.com/signup,957,0,152
+1649996909481,491,Sign up-x1y13,200,OK,SIGNUP 1-1,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",488,491,6,14,https://api.demoblaze.com/signup,490,0,160
+1649996910135,527,Sign up-x1y14,200,OK,SIGNUP 1-2,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",707,491,6,14,https://api.demoblaze.com/signup,527,0,182
+1649996910799,472,Sign up-x1y16,200,OK,SIGNUP 1-3,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",676,491,6,13,https://api.demoblaze.com/signup,472,0,144
+1649996911470,481,Sign up-x1y18,200,OK,SIGNUP 1-4,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",546,491,6,14,https://api.demoblaze.com/signup,481,0,156
+1649996912134,511,Sign up-x1y20,200,OK,SIGNUP 1-5,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",558,491,6,14,https://api.demoblaze.com/signup,511,0,177
+1649996912801,482,Sign up-x1y22,200,OK,SIGNUP 1-6,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",728,491,6,13,https://api.demoblaze.com/signup,481,0,163
+1649996913467,473,Sign up-x1y24,200,OK,SIGNUP 1-7,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",506,491,6,14,https://api.demoblaze.com/signup,473,0,158
+1649996914133,458,Sign up-x1y26,200,OK,SIGNUP 1-8,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",547,491,6,14,https://api.demoblaze.com/signup,458,0,140
+1649996914801,479,Sign up-x1y13,200,OK,SIGNUP 1-9,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",678,491,6,13,https://api.demoblaze.com/signup,478,0,152
+1649996915466,498,Sign up-x1y15,200,OK,SIGNUP 1-10,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",642,491,6,13,https://api.demoblaze.com/signup,498,0,163
+1649996916132,467,Sign up-x1y17,200,OK,SIGNUP 1-11,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",681,491,5,11,https://api.demoblaze.com/signup,467,0,156
+1649996916798,487,Sign up-x1y19,200,OK,SIGNUP 1-12,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",497,491,4,8,https://api.demoblaze.com/signup,487,0,160
+1649996917463,489,Sign up-x1y21,200,OK,SIGNUP 1-13,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",691,491,3,6,https://api.demoblaze.com/signup,488,0,164
+1649996918134,491,Sign up-x1y23,200,OK,SIGNUP 1-14,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",599,491,2,4,https://api.demoblaze.com/signup,491,0,163
+1649996918798,465,Sign up-x1y25,200,OK,SIGNUP 1-15,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",569,491,1,2,https://api.demoblaze.com/signup,465,0,148
+1650003241204,476,Sign up-x1y13,200,OK,SIGNUP 1-1,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",709,491,6,14,https://api.demoblaze.com/signup,476,0,156
+1650003241864,499,Sign up-x1y14,200,OK,SIGNUP 1-2,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",485,491,6,14,https://api.demoblaze.com/signup,499,0,157
+1650003242529,587,Sign up-x1y17,200,OK,SIGNUP 1-3,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",509,491,6,13,https://api.demoblaze.com/signup,587,0,146
+1650003243195,521,Sign up-x1y18,200,OK,SIGNUP 1-4,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",616,491,6,12,https://api.demoblaze.com/signup,521,0,200
+1650003243864,487,Sign up-x1y20,200,OK,SIGNUP 1-5,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",575,491,6,14,https://api.demoblaze.com/signup,487,0,148
+1650003244527,466,Sign up-x1y22,200,OK,SIGNUP 1-6,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",580,491,6,13,https://api.demoblaze.com/signup,466,0,139
+1650003245193,538,Sign up-x1y24,200,OK,SIGNUP 1-7,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",606,491,6,13,https://api.demoblaze.com/signup,538,0,163
+1650003245877,467,Sign up-x1y12,200,OK,SIGNUP 1-8,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",649,491,6,14,https://api.demoblaze.com/signup,467,0,137
+1650003246526,467,Sign up-x1y13,200,OK,SIGNUP 1-9,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",513,491,6,13,https://api.demoblaze.com/signup,467,0,137
+1650003247196,501,Sign up-x1y15,200,OK,SIGNUP 1-10,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",657,491,6,14,https://api.demoblaze.com/signup,501,0,155
+1650003247858,461,Sign up-x1y17,200,OK,SIGNUP 1-11,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",521,491,5,11,https://api.demoblaze.com/signup,461,0,147
+1650003248524,632,Sign up-x1y19,200,OK,SIGNUP 1-12,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",594,491,4,7,https://api.demoblaze.com/signup,632,0,303
+1650003249193,467,Sign up-x1y21,200,OK,SIGNUP 1-13,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",637,491,3,6,https://api.demoblaze.com/signup,467,0,150
+1650003249859,468,Sign up-x1y23,200,OK,SIGNUP 1-14,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",638,491,2,4,https://api.demoblaze.com/signup,468,0,153
+1650003250525,456,Sign up-x1y25,200,OK,SIGNUP 1-15,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",501,491,1,2,https://api.demoblaze.com/signup,456,0,136
+1650009481431,0,Sign up-x1y12,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: api.demoblaze.com,SIGNUP 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.UnknownHostException]]]
+
+****** comparison: [[[200                                                  ]]]
+
+/",2238,0,5,32,https://api.demoblaze.com/signup,0,0,0
+1650009482099,0,Sign up-x1y14,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: api.demoblaze.com,SIGNUP 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.UnknownHostException]]]
+
+****** comparison: [[[200                                                  ]]]
+
+/",2238,0,5,32,https://api.demoblaze.com/signup,0,0,0
+1650009482766,0,Sign up-x1y16,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: api.demoblaze.com,SIGNUP 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.UnknownHostException]]]
+
+****** comparison: [[[200                                                  ]]]
+
+/",2238,0,5,32,https://api.demoblaze.com/signup,0,0,0
+1650009483432,1,Sign up-x1y18,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: api.demoblaze.com,SIGNUP 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.UnknownHostException]]]
+
+****** comparison: [[[200                                                  ]]]
+
+/",2238,0,5,32,https://api.demoblaze.com/signup,0,0,1
+1650009484098,0,Sign up-x1y20,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: api.demoblaze.com,SIGNUP 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.UnknownHostException]]]
+
+****** comparison: [[[200                                                  ]]]
+
+/",2238,0,5,32,https://api.demoblaze.com/signup,0,0,0
+1650009484766,1,Sign up-x1y22,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: api.demoblaze.com,SIGNUP 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.UnknownHostException]]]
+
+****** comparison: [[[200                                                  ]]]
+
+/",2238,0,5,32,https://api.demoblaze.com/signup,0,0,1
+1650009485433,0,Sign up-x1y24,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: api.demoblaze.com,SIGNUP 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.UnknownHostException]]]
+
+****** comparison: [[[200                                                  ]]]
+
+/",2238,0,5,32,https://api.demoblaze.com/signup,0,0,0
+1650009486100,0,Sign up-x1y26,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: api.demoblaze.com,SIGNUP 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.UnknownHostException]]]
+
+****** comparison: [[[200                                                  ]]]
+
+/",2238,0,5,32,https://api.demoblaze.com/signup,0,0,0
+1650009486765,0,Sign up-x1y13,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: api.demoblaze.com,SIGNUP 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.UnknownHostException]]]
+
+****** comparison: [[[200                                                  ]]]
+
+/",2238,0,5,32,https://api.demoblaze.com/signup,0,0,0
+1650009487432,0,Sign up-x1y15,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: api.demoblaze.com,SIGNUP 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.UnknownHostException]]]
+
+****** comparison: [[[200                                                  ]]]
+
+/",2238,0,5,32,https://api.demoblaze.com/signup,0,0,0
+1650009488101,0,Sign up-x1y17,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: api.demoblaze.com,SIGNUP 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.UnknownHostException]]]
+
+****** comparison: [[[200                                                  ]]]
+
+/",2238,0,5,32,https://api.demoblaze.com/signup,0,0,0
+1650009488771,1,Sign up-x1y19,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: api.demoblaze.com,SIGNUP 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.UnknownHostException]]]
+
+****** comparison: [[[200                                                  ]]]
+
+/",2238,0,4,28,https://api.demoblaze.com/signup,0,0,1
+1650009489442,2,Sign up-x1y21,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (api.demoblaze.com),SIGNUP 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.UnknownHostException]]]
+
+****** comparison: [[[200                                                  ]]]
+
+/",2524,0,3,26,https://api.demoblaze.com/signup,0,0,2
+1650009543660,461,Sign up-x1y12,200,OK,SIGNUP 1-1,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",597,491,6,35,https://api.demoblaze.com/signup,461,0,143
+1650009544314,478,Sign up-x1y14,200,OK,SIGNUP 1-2,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",677,491,6,35,https://api.demoblaze.com/signup,478,0,145
+1650009544979,485,Sign up-x1y16,200,OK,SIGNUP 1-3,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",657,491,6,34,https://api.demoblaze.com/signup,485,0,139
+1650009545647,474,Sign up-x1y18,200,OK,SIGNUP 1-4,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",614,491,6,35,https://api.demoblaze.com/signup,474,0,134
+1650009546307,463,Sign up-x1y20,200,OK,SIGNUP 1-5,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",723,491,6,35,https://api.demoblaze.com/signup,463,0,146
+1650009546972,473,Sign up-x1y22,200,OK,SIGNUP 1-6,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",645,491,6,34,https://api.demoblaze.com/signup,473,0,145
+1650009547640,586,Sign up-x1y24,200,OK,SIGNUP 1-7,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",582,491,6,33,https://api.demoblaze.com/signup,586,0,256
+1650009548309,459,Sign up-x1y26,200,OK,SIGNUP 1-8,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",711,491,6,35,https://api.demoblaze.com/signup,459,0,138
+1650009548973,463,Sign up-x1y13,200,OK,SIGNUP 1-9,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",532,491,6,34,https://api.demoblaze.com/signup,463,0,146
+1650009549640,474,Sign up-x1y15,200,OK,SIGNUP 1-10,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",583,491,6,35,https://api.demoblaze.com/signup,473,0,144
+1650009550320,497,Sign up-x1y17,200,OK,SIGNUP 1-11,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",716,491,5,32,https://api.demoblaze.com/signup,497,0,171
+1650009550989,538,Sign up-x1y19,200,OK,SIGNUP 1-12,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",495,491,4,28,https://api.demoblaze.com/signup,538,0,219
+1650009551642,475,Sign up-x1y21,200,OK,SIGNUP 1-13,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",575,491,3,27,https://api.demoblaze.com/signup,475,0,158
+1650009552308,477,Sign up-x1y23,200,OK,SIGNUP 1-14,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",676,491,2,25,https://api.demoblaze.com/signup,477,0,157
+1650009552979,464,Sign up-x1y25,200,OK,SIGNUP 1-15,text,false,"Test failed: text expected not to contain /""errorMessage"":""This user already exist.""/",616,491,1,23,https://api.demoblaze.com/signup,464,0,144
+1650010964286,504,Sign up-x1y121,200,OK,SIGNUP 1-1,text,true,,326,493,6,25,https://api.demoblaze.com/signup,504,0,151
+1650010964943,507,Sign up-x1y122,200,OK,SIGNUP 1-2,text,true,,326,493,6,28,https://api.demoblaze.com/signup,507,0,157
+1650010965609,510,Sign up-x1y123,200,OK,SIGNUP 1-3,text,true,,326,493,6,29,https://api.demoblaze.com/signup,510,0,142
+1650010966285,580,Sign up-x1y124,200,OK,SIGNUP 1-4,text,true,,326,493,6,32,https://api.demoblaze.com/signup,580,0,135
+1650010966944,500,Sign up-x1y125,200,OK,SIGNUP 1-5,text,true,,326,493,6,34,https://api.demoblaze.com/signup,500,0,143
+1650010967611,529,Sign up-x1y126,200,OK,SIGNUP 1-6,text,true,,326,493,6,35,https://api.demoblaze.com/signup,529,0,165
+1650010968274,497,Sign up-x1y127,200,OK,SIGNUP 1-7,text,true,,326,493,6,38,https://api.demoblaze.com/signup,497,0,152
+1650010968941,505,Sign up-x1y128,200,OK,SIGNUP 1-8,text,true,,326,493,6,41,https://api.demoblaze.com/signup,505,0,147
+1650010969609,510,Sign up-x1y129,200,OK,SIGNUP 1-9,text,true,,326,493,6,42,https://api.demoblaze.com/signup,510,0,146
+1650010970271,552,Sign up-x1y130,200,OK,SIGNUP 1-10,text,true,,326,493,6,44,https://api.demoblaze.com/signup,552,0,148
+1650010970941,499,Sign up-x1y131,200,OK,SIGNUP 1-11,text,true,,326,493,5,43,https://api.demoblaze.com/signup,499,0,150
+1650010971607,529,Sign up-x1y132,200,OK,SIGNUP 1-12,text,true,,326,493,4,41,https://api.demoblaze.com/signup,529,0,138
+1650010972274,554,Sign up-x1y133,200,OK,SIGNUP 1-13,text,true,,326,493,3,40,https://api.demoblaze.com/signup,554,0,199
+1650010972936,496,Sign up-x1y134,200,OK,SIGNUP 1-14,text,true,,326,493,2,39,https://api.demoblaze.com/signup,496,0,149
+1650010973608,495,Sign up-x1y135,200,OK,SIGNUP 1-15,text,true,,326,493,1,38,https://api.demoblaze.com/signup,495,0,141
